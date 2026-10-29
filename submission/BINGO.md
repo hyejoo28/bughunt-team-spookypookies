@@ -1,6 +1,7 @@
 # Testing Bingo: Team [spookypookies]
 
 **Team captain:** Hyejoo Lee
+
 **Team members:** Jacob Black, Taran Thomas
 
 One person (the team captain) fills this in. Put the Test ID of a **failing** test case in each square you earn. One test case can only fill **one** square.
@@ -9,9 +10,9 @@ One person (the team captain) fills this in. Put the Test ID of a **failing** te
 
 | | | |
 |:---:|:---:|:---:|
-| **Unit**<br/>Test ID: | **Integration**<br/>Test ID: | **System (E2E)**<br/>Test ID: |
-| **Boundary Value**<br/>Test ID: | **VALIDATION BUG**<br/>Test ID: | **Negative**<br/>Test ID: |
-| **Security**<br/>Test ID: | **Acceptance**<br/>Test ID: | **Traced to a DIAGRAM**<br/>Test ID: |
+| **Unit**<br/>Test ID: | **Integration**<br/>Test ID:  | **System (E2E)**<br/>Test ID: |
+| **Boundary Value**<br/>Test ID: | **VALIDATION BUG**<br/>Test ID: TT-02 | **Negative**<br/>Test ID: TT-01 |
+| **Security**<br/>Test ID: HL-01 | **Acceptance**<br/>Test ID: TT-03 | **Traced to a DIAGRAM**<br/>Test ID: |
 
 The center square needs a test case labeled **Validation**. The bottom-right square needs a test case whose "Traces to" field names the architecture diagram, the class diagram, or the sequence diagram.
 
@@ -19,12 +20,12 @@ The center square needs a test case labeled **Validation**. The bottom-right squ
 
 | Item | How it scores | Count | Points |
 |---|---|---|---|
-| Unique failing test cases | 1 point each | | |
-| Test types used (out of 7) | +2 points each | | |
-| Validation bugs found | +3 points each | | |
+| Unique failing test cases | 1 point each | 7 | 7 |
+| Test types used (out of 7) | +2 points each | 4 | 8 |
+| Validation bugs found | +3 points each | 1 | 3 |
 | Any full row, column, or diagonal | +3 points each | | |
 | Full card (blackout) | +5 points | | |
-| **Total** | | | |
+| **Total** | | | 18 |
 
 **Rules for counting:**
 - Two test cases that expose the **same bug** count as one.
