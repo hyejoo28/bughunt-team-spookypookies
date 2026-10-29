@@ -1,4 +1,4 @@
-# Test Cases: [Your First Name Last Initial]
+# Test Cases: [Hyejoo L]
 
 **Team number:** [XX]
 
@@ -14,24 +14,35 @@ HOW TO USE THIS FILE
 
 ---
 
-**Test ID:**
-**Written by:**
-**Title:**
-**Traces to:**
-**Test type:** (Unit / Integration / System / Acceptance / Boundary Value / Negative / Security)
+**Test ID:** HL-01
+
+**Written by:** Hyejoo Lee
+
+**Title:** Anyone can delete costumes
+
+**Traces to:** 
+
+**Test type:** Security
+
 **Preconditions:**
-**Test data:**
+
+**Test data:** Click delete button
+
 
 **Steps:**
-1.
-2.
+1. Click the 'Gallery'
+2. Click the 'Delete'
 3.
 
-**Expected result:**
-**Actual result:**
-**Status:** (Pass / Fail)
-**Severity:** (Critical / Major / Minor, Fail only)
-**V or V:** (Verification / Validation, Fail only)
+**Expected result:** The system should not allow delete the costume.
+
+**Actual result:** Anyone could delete the costume.
+
+**Status:** Fail
+
+**Severity:** Major
+
+**V or V:** Verification
 
 ---
 
