@@ -1,7 +1,7 @@
-# Testing Bingo: Team [XX]
+# Testing Bingo: Team [spookypookies]
 
-**Team captain:** [name]
-**Team members:** [name], [name], [name], [name]
+**Team captain:** Hyejoo Lee
+**Team members:** Jacob Black, Taran Thomas
 
 One person (the team captain) fills this in. Put the Test ID of a **failing** test case in each square you earn. One test case can only fill **one** square.
 
