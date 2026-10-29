@@ -15,12 +15,19 @@ HOW TO USE THIS FILE
 ---
 
 **Test ID:** HL-01
+
 **Written by:** Hyejoo Lee
+
 **Title:** Anyone can delete costumes
+
 **Traces to:** 
+
 **Test type:** Security
+
 **Preconditions:**
+
 **Test data:** Click delete button
+
 
 **Steps:**
 1. Click the 'Gallery'
@@ -28,9 +35,13 @@ HOW TO USE THIS FILE
 3.
 
 **Expected result:** The system should not allow delete the costume.
+
 **Actual result:** Anyone could delete the costume.
+
 **Status:** Fail
+
 **Severity:** Major
+
 **V or V:** Verification
 
 ---
